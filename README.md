@@ -1,5 +1,5 @@
 # AI1110-Hardware_Project
- This repository contains the documentation for the random numeber generator project for AI1110 at IIT Hyderabad.
+ This repository contains the documentation for the random number generator project for AI1110 at IIT Hyderabad.
  
  Gunethra Bommineni - EE22BTECH11205
 
